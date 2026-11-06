@@ -1,0 +1,7 @@
+{
+  "name": "grabadora",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
